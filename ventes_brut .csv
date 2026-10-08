@@ -1,0 +1,229 @@
+id_vente,date_vente,produit,categorie,prix_unitaire,quantite,client,region,mode_paiement
+1,2025-10-07,Casque audio,électronique,,-1.0,Client_1152,nouvelle aquitaine,Carte bancaire
+2,2025-09-11,Casque audio,Electronique ,"185,41 €",4.0,Client_1099,Île-de-France,Carte bancaire
+3,28/11/2025,Stylo pack x10,fournitures ,7.55,1.0,Client_1115,Auvergne-Rhône-Alpes,Espèces
+4,2025-12-02,Chaise de bureau,mobilier,292.49,-1.0,Client_1128,IDF,Espèces
+5,2025-12-10,Lampe LED,Mobilier,57.04,1.0,Client_1114,AURA,Chèque
+6,2025-05-27,Bureau réglable,MOBILIER,"311,61 €",3.0,Client_1129,IDF,Chèque
+7,2025-05-12,Stylo pack x10,Fourniture,7.72,3.0,Client_1165,Occitanie,Virement
+8,2025-11-05,Ordinateur portable,électronique,"1187,64 €",4.0,Client_1004,Auvergne-Rhône-Alpes,Chèque
+9,2025-05-11,Ordinateur portable,ELECTRONIQUE,1214.54,-1.0,Client_1101,,Espèces
+10,22/11/2025,Classeur,Fournitures,2.68,2.0,Client_1056,AURA,Chèque
+11,2025-11-04,Bureau réglable,Mobilier,490.16,-1.0,Client_1095,,Espèces
+12,20/10/2025,Smartphone,Électronique,649.67,3.0,Client_1162,bretagne,Virement
+13,21/08/2025,Chaise de bureau,MOBILIER,184.43,0.0,Client_1033,nouvelle aquitaine,Virement
+14,21/09/2025,Smartphone,,"1042,76 €",0.0,Client_1049,nouvelle aquitaine,Carte bancaire
+15,2025-05-11,Ordinateur portable,Électronique,"1319,11 €",4.0,Client_1097,Occitanie,Carte bancaire
+16,2025-09-15,Stylo pack x10,Fourniture,7.03,1.0,Client_1200,Auvergne-Rhône-Alpes,Virement
+17,2025-04-23,Lampe LED,MOBILIER,58.17,2.0,Client_1194,IDF,Carte bancaire
+18,2025-09-12,Casque audio,Electronique ,"174,48 €",1.0,Client_1143,Occitanie,Carte bancaire
+19,2025-03-24,Bureau réglable,MOBILIER,"426,01 €",3.0,Client_1106,occitanie ,Espèces
+20,2025-02-22,Bureau réglable,MOBILIER,378.79,1.0,Client_1128,nouvelle aquitaine,
+21,19/06/2025,Casque audio,ELECTRONIQUE,116.45,2.0,Client_1121,AURA,Carte bancaire
+22,2025-12-28,Cahier A4,fournitures ,2.41,4.0,Client_1026,occitanie ,Espèces
+23,2025-01-11,Casque audio,électronique,182.68,1.0,Client_1062,occitanie ,Chèque
+24,2025-08-06,Cahier A4,fournitures ,2.35,3.0,Client_1152,occitanie ,
+25,19/07/2025,Cahier A4,Fournitures,1.07,3.0,Client_1103,bretagne,Carte bancaire
+26,07/12/2025,Smartphone,Électronique,1015.83,2.0,Client_1019,bretagne,Virement
+27,27/07/2025,Casque audio,Électronique,164.41,4.0,Client_1047,ile de france,Espèces
+28,2025-03-01,Lampe LED,MOBILIER,"50,55 €",3.0,Client_1029,,Carte bancaire
+29,17/05/2025,Casque audio,ELECTRONIQUE,100.99,3.0,Client_1032,Occitanie,Virement
+30,2025-04-19,Bureau réglable,mobilier,"203,34 €",4.0,Client_1185,occitanie ,
+31,2025-11-20,Casque audio,électronique,"67,40 €",,Client_1118,Auvergne-Rhône-Alpes,Virement
+32,21/04/2025,Smartphone,Electronique ,336.37,2.0,Client_1160,Bretagne,Virement
+33,2025-10-08,Casque audio,ELECTRONIQUE,"94,08 €",3.0,Client_1017,IDF,Carte bancaire
+34,2025-09-15,Stylo pack x10,Fourniture,7.03,1.0,Client_1200,Auvergne-Rhône-Alpes,Virement
+35,10/10/2025,Chaise de bureau,MOBILIER,246.17,0.0,Client_1189,Occitanie,
+36,2025-11-27,Lampe LED,MOBILIER,21.0,3.0,Client_1046,bretagne,Espèces
+37,2025-09-26,Ordinateur portable,ELECTRONIQUE,,0.0,Client_1101,Île-de-France,Chèque
+38,2025-08-08,Classeur,Fourniture,4.54,2.0,Client_1195,Occitanie,Carte bancaire
+39,28/06/2025,Lampe LED,mobilier,43.05,1.0,Client_1160,AURA,Chèque
+40,2025-08-23,Cahier A4,Fournitures,4.99,3.0,Client_1184,Occitanie,Espèces
+41,15/05/2025,Stylo pack x10,Fournitures,"11,14 €",0.0,Client_1051,AURA,Espèces
+42,2025-02-20,Smartphone,ELECTRONIQUE,"422,27 €",4.0,Client_1141,AURA,Carte bancaire
+43,02/07/2025,Ordinateur portable,électronique,1255.02,1.0,Client_1048,Île-de-France,Chèque
+44,25/03/2025,Ordinateur portable,,"755,77 €",2.0,Client_1001,occitanie ,Chèque
+45,13/11/2025,Ordinateur portable,Électronique,988.63,4.0,Client_1032,nouvelle aquitaine,Virement
+46,2025-02-04,Ordinateur portable,Electronique ,"1459,70 €",0.0,Client_1116,,Virement
+47,2025-04-06,Chaise de bureau,Mobilier,"210,12 €",1.0,Client_1104,Île-de-France,Chèque
+48,01/04/2025,Classeur,fournitures ,"5,38 €",3.0,Client_1041,Bretagne,Espèces
+49,2025-07-06,Lampe LED,Mobilier,"49,26 €",1.0,Client_1006,AURA,Carte bancaire
+50,22/04/2025,Smartphone,Électronique,1059.21,1.0,Client_1085,Auvergne-Rhône-Alpes,
+51,07/09/2025,Classeur,fournitures ,2.99,4.0,Client_1171,nouvelle aquitaine,
+52,09/02/2025,Classeur,fournitures ,3.8,1.0,Client_1072,Auvergne-Rhône-Alpes,Espèces
+53,09/10/2025,Smartphone,Electronique ,"557,69 €",1.0,Client_1152,AURA,Virement
+54,03/04/2025,Bureau réglable,Mobilier,330.41,3.0,Client_1006,Nouvelle-Aquitaine,Carte bancaire
+55,11/06/2025,Stylo pack x10,Fournitures,"3,70 €",,Client_1059,Île-de-France,Chèque
+56,06/11/2025,Classeur,Fourniture,2.56,1.0,Client_1010,AURA,Carte bancaire
+57,28/07/2025,Chaise de bureau,Mobilier,220.06,-1.0,Client_1045,Nouvelle-Aquitaine,Chèque
+58,10/04/2025,Stylo pack x10,Fourniture,"4,73 €",-1.0,Client_1053,occitanie ,Chèque
+59,19/05/2025,Lampe LED,mobilier,"29,91 €",4.0,Client_1067,IDF,Espèces
+60,26/11/2025,Ordinateur portable,électronique,884.52,4.0,Client_1179,nouvelle aquitaine,Carte bancaire
+61,24/08/2025,Chaise de bureau,Mobilier,270.72,1.0,Client_1168,Auvergne-Rhône-Alpes,Chèque
+62,18/02/2025,Bureau réglable,mobilier,,3.0,Client_1021,Auvergne-Rhône-Alpes,
+63,04/08/2025,Cahier A4,Fourniture,3.56,1.0,Client_1147,IDF,Espèces
+64,2025-05-18,Smartphone,ELECTRONIQUE,"881,67 €",1.0,Client_1078,ile de france,Chèque
+65,2025-08-17,Lampe LED,MOBILIER,24.16,2.0,Client_1108,Île-de-France,
+66,2025-08-16,Stylo pack x10,fournitures ,"3,92 €",2.0,Client_1122,Nouvelle-Aquitaine,
+67,20/04/2025,Ordinateur portable,Electronique ,1214.66,,Client_1029,bretagne,Espèces
+68,03/11/2025,Casque audio,Électronique,177.43,-1.0,Client_1092,AURA,Virement
+69,2025-02-08,Stylo pack x10,Fourniture,11.1,2.0,Client_1056,Auvergne-Rhône-Alpes,Carte bancaire
+70,12/11/2025,Cahier A4,,2.31,2.0,Client_1029,AURA,Virement
+71,2025-12-08,Classeur,Fourniture,2.06,1.0,Client_1121,Auvergne-Rhône-Alpes,Chèque
+72,10/02/2025,Lampe LED,mobilier,36.59,2.0,Client_1088,AURA,Espèces
+73,26/09/2025,Bureau réglable,mobilier,165.54,,Client_1017,nouvelle aquitaine,Virement
+74,2025-11-04,Chaise de bureau,mobilier,166.41,3.0,Client_1070,Occitanie,Espèces
+75,09/06/2025,Cahier A4,Fournitures,2.87,2.0,Client_1184,bretagne,Chèque
+76,27/01/2025,Ordinateur portable,Electronique ,1315.67,2.0,Client_1171,Nouvelle-Aquitaine,Carte bancaire
+77,2025-07-10,Classeur,Fournitures,3.91,1.0,Client_1057,AURA,Virement
+78,2025-12-28,Stylo pack x10,Fournitures,4.84,3.0,Client_1194,occitanie ,Virement
+79,2025-11-14,Classeur,fournitures ,4.51,1.0,Client_1008,bretagne,Virement
+80,02/10/2025,Lampe LED,mobilier,56.14,4.0,Client_1141,Nouvelle-Aquitaine,Chèque
+81,10/05/2025,Smartphone,ELECTRONIQUE,563.75,4.0,Client_1020,Auvergne-Rhône-Alpes,Espèces
+82,20/05/2025,Cahier A4,Fourniture,2.46,0.0,Client_1061,Bretagne,Virement
+83,17/03/2025,Lampe LED,Mobilier,20.34,4.0,Client_1076,Nouvelle-Aquitaine,Chèque
+84,05/06/2025,Classeur,Fourniture,,,Client_1132,bretagne,Virement
+85,17/05/2025,Lampe LED,MOBILIER,"44,85 €",2.0,Client_1075,occitanie ,Espèces
+86,2025-10-07,Classeur,Fournitures,2.71,0.0,Client_1034,Bretagne,Carte bancaire
+87,09/01/2025,Bureau réglable,MOBILIER,"497,44 €",,Client_1127,IDF,Virement
+88,2025-10-13,Smartphone,ELECTRONIQUE,488.8,3.0,Client_1095,nouvelle aquitaine,Chèque
+89,17/09/2025,Cahier A4,fournitures ,1.7,2.0,Client_1189,Occitanie,Carte bancaire
+90,2025-01-06,Smartphone,Electronique ,"814,20 €",0.0,Client_1083,Occitanie,Virement
+91,27/07/2025,Casque audio,Électronique,121.93,1.0,Client_1002,nouvelle aquitaine,Virement
+92,23/11/2025,Lampe LED,MOBILIER,22.32,2.0,Client_1186,Auvergne-Rhône-Alpes,Espèces
+93,2025-02-07,Stylo pack x10,fournitures ,5.19,4.0,Client_1105,bretagne,Chèque
+94,10/06/2025,Classeur,,"4,84 €",2.0,Client_1069,IDF,Carte bancaire
+95,03/04/2025,Bureau réglable,mobilier,307.26,4.0,Client_1013,Occitanie,Chèque
+96,02/02/2025,Ordinateur portable,ELECTRONIQUE,1067.77,-1.0,Client_1104,Bretagne,Espèces
+97,23/10/2025,Smartphone,ELECTRONIQUE,897.5,2.0,Client_1198,Bretagne,Virement
+98,2025-11-06,Chaise de bureau,MOBILIER,,1.0,Client_1144,AURA,Virement
+99,10/11/2025,Stylo pack x10,fournitures ,"5,30 €",0.0,Client_1150,ile de france,Virement
+100,2025-05-05,Chaise de bureau,mobilier,"146,61 €",-1.0,Client_1178,IDF,Espèces
+101,05/03/2025,Smartphone,électronique,"620,57 €",1.0,Client_1030,,Chèque
+102,2025-06-08,Classeur,Fourniture,3.59,1.0,Client_1167,bretagne,Carte bancaire
+103,27/12/2025,Lampe LED,Mobilier,22.73,0.0,Client_1062,ile de france,Chèque
+104,15/07/2025,Chaise de bureau,MOBILIER,296.14,1.0,Client_1178,Auvergne-Rhône-Alpes,Chèque
+105,06/10/2025,Chaise de bureau,mobilier,"171,61 €",3.0,Client_1027,Île-de-France,Carte bancaire
+106,07/06/2025,Cahier A4,Fourniture,2.46,-1.0,Client_1115,ile de france,Virement
+107,2025-11-21,Ordinateur portable,ELECTRONIQUE,1167.54,1.0,Client_1164,Bretagne,Chèque
+108,2025-02-24,Cahier A4,fournitures ,2.36,4.0,Client_1039,occitanie ,Chèque
+109,15/01/2025,Smartphone,Électronique,999.35,-1.0,Client_1120,Bretagne,Virement
+110,2025-11-07,Bureau réglable,mobilier,173.17,3.0,Client_1035,Bretagne,Espèces
+111,17/09/2025,Chaise de bureau,mobilier,91.72,,Client_1075,nouvelle aquitaine,Virement
+112,14/07/2025,Casque audio,électronique,207.27,-1.0,Client_1065,,Espèces
+113,26/06/2025,Smartphone,électronique,"402,93 €",3.0,Client_1154,Occitanie,Chèque
+114,22/10/2025,Lampe LED,mobilier,"42,17 €",2.0,Client_1147,IDF,Carte bancaire
+115,03/09/2025,Lampe LED,mobilier,44.1,3.0,Client_1096,Nouvelle-Aquitaine,Carte bancaire
+116,07/04/2025,Casque audio,ELECTRONIQUE,"239,26 €",0.0,Client_1025,Nouvelle-Aquitaine,Carte bancaire
+117,2025-07-19,Classeur,Fournitures,5.23,4.0,Client_1193,nouvelle aquitaine,Carte bancaire
+118,21/05/2025,Lampe LED,mobilier,"21,79 €",0.0,Client_1129,Auvergne-Rhône-Alpes,Carte bancaire
+119,15/06/2025,Lampe LED,Mobilier,29.96,4.0,Client_1198,nouvelle aquitaine,Chèque
+120,12/05/2025,Cahier A4,fournitures ,"4,49 €",,Client_1061,Occitanie,Carte bancaire
+121,21/09/2025,Smartphone,,"1042,76 €",0.0,Client_1049,nouvelle aquitaine,Carte bancaire
+122,2025-12-06,Ordinateur portable,Électronique,,2.0,Client_1019,Bretagne,Espèces
+123,24/08/2025,Lampe LED,MOBILIER,53.14,,Client_1075,Bretagne,Virement
+124,2025-08-15,Cahier A4,Fourniture,4.14,3.0,Client_1043,nouvelle aquitaine,Carte bancaire
+125,2025-02-09,Cahier A4,fournitures ,2.11,4.0,Client_1057,Auvergne-Rhône-Alpes,Carte bancaire
+126,2025-09-15,Cahier A4,Fournitures,4.34,2.0,Client_1070,Nouvelle-Aquitaine,Chèque
+127,2025-07-28,Lampe LED,,39.94,3.0,Client_1185,bretagne,Espèces
+128,2025-06-15,Smartphone,Électronique,"896,89 €",4.0,Client_1013,occitanie ,Espèces
+129,18/04/2025,Chaise de bureau,MOBILIER,237.73,2.0,Client_1074,Île-de-France,Espèces
+130,2025-09-12,Smartphone,ELECTRONIQUE,936.98,1.0,Client_1003,,Chèque
+131,15/03/2025,Ordinateur portable,Electronique ,1168.05,1.0,Client_1156,AURA,Chèque
+132,11/05/2025,Stylo pack x10,Fourniture,8.85,2.0,Client_1059,IDF,Carte bancaire
+133,24/03/2025,Cahier A4,fournitures ,2.94,4.0,Client_1151,Nouvelle-Aquitaine,Carte bancaire
+134,14/09/2025,Lampe LED,MOBILIER,33.85,2.0,Client_1035,Bretagne,Espèces
+135,2025-12-13,Stylo pack x10,fournitures ,"10,14 €",2.0,Client_1141,AURA,Virement
+136,2025-12-13,Bureau réglable,Mobilier,351.53,4.0,Client_1178,Auvergne-Rhône-Alpes,Virement
+137,2025-08-14,Smartphone,électronique,1041.09,1.0,Client_1097,Bretagne,Carte bancaire
+138,23/02/2025,Stylo pack x10,Fournitures,3.93,3.0,Client_1181,Nouvelle-Aquitaine,Chèque
+139,2025-12-25,Cahier A4,Fourniture,3.71,4.0,Client_1088,IDF,Carte bancaire
+140,26/12/2025,Smartphone,Electronique ,,-1.0,Client_1008,Île-de-France,Espèces
+141,15/02/2025,Smartphone,ELECTRONIQUE,479.76,1.0,Client_1130,nouvelle aquitaine,Virement
+142,26/11/2025,Cahier A4,Fourniture,3.81,-1.0,Client_1114,Nouvelle-Aquitaine,Virement
+143,04/12/2025,Smartphone,ELECTRONIQUE,"372,98 €",4.0,Client_1171,Nouvelle-Aquitaine,Carte bancaire
+144,2025-03-22,Smartphone,Electronique ,630.64,1.0,Client_1167,Auvergne-Rhône-Alpes,Chèque
+145,2025-06-20,Classeur,fournitures ,7.72,1.0,Client_1061,ile de france,Carte bancaire
+146,2025-06-02,Smartphone,Electronique ,"866,27 €",1.0,Client_1054,nouvelle aquitaine,Espèces
+147,25/07/2025,Cahier A4,fournitures ,2.91,2.0,Client_1056,,Virement
+148,2025-09-10,Ordinateur portable,électronique,961.02,0.0,Client_1067,ile de france,Virement
+149,12/12/2025,Classeur,Fournitures,5.06,3.0,Client_1037,Nouvelle-Aquitaine,Virement
+150,10/07/2025,Cahier A4,,2.06,0.0,Client_1048,,Virement
+151,02/12/2025,Cahier A4,fournitures ,1.67,0.0,Client_1163,occitanie ,Carte bancaire
+152,2025-04-08,Ordinateur portable,Electronique ,,,Client_1153,Auvergne-Rhône-Alpes,Carte bancaire
+153,2025-03-05,Lampe LED,MOBILIER,54.44,4.0,Client_1112,Auvergne-Rhône-Alpes,Carte bancaire
+154,01/01/2025,Stylo pack x10,,3.14,4.0,Client_1128,occitanie ,Chèque
+155,28/09/2025,Smartphone,Electronique ,"551,61 €",4.0,Client_1105,IDF,Carte bancaire
+156,2025-07-05,Classeur,Fournitures,2.22,-1.0,Client_1091,occitanie ,Espèces
+157,27/06/2025,Cahier A4,Fournitures,1.99,1.0,Client_1127,Occitanie,Chèque
+158,2025-08-07,Cahier A4,,4.49,2.0,Client_1168,Nouvelle-Aquitaine,Espèces
+159,2025-05-04,Classeur,Fournitures,"5,37 €",0.0,Client_1074,Nouvelle-Aquitaine,Chèque
+160,17/04/2025,Smartphone,ELECTRONIQUE,"1033,80 €",-1.0,Client_1133,Nouvelle-Aquitaine,Chèque
+161,2025-03-25,Casque audio,électronique,223.15,1.0,Client_1077,,Espèces
+162,2025-08-07,Smartphone,Électronique,450.53,-1.0,Client_1054,occitanie ,Espèces
+163,15/10/2025,Stylo pack x10,Fourniture,8.22,1.0,Client_1038,occitanie ,Carte bancaire
+164,09/01/2025,Bureau réglable,MOBILIER,"497,44 €",,Client_1127,IDF,Virement
+165,2025-09-13,Stylo pack x10,Fourniture,10.91,1.0,Client_1090,Nouvelle-Aquitaine,Carte bancaire
+166,18/05/2025,Bureau réglable,Mobilier,"450,44 €",1.0,Client_1033,,Carte bancaire
+167,2025-11-11,Smartphone,électronique,759.14,4.0,Client_1127,Île-de-France,Chèque
+168,2025-08-15,Cahier A4,Fourniture,4.14,3.0,Client_1043,nouvelle aquitaine,Carte bancaire
+169,28/11/2025,Stylo pack x10,fournitures ,7.55,1.0,Client_1115,Auvergne-Rhône-Alpes,Espèces
+170,2025-12-03,Ordinateur portable,ELECTRONIQUE,1323.25,2.0,Client_1015,nouvelle aquitaine,Chèque
+171,07/04/2025,Lampe LED,Mobilier,20.38,1.0,Client_1049,occitanie ,Virement
+172,2025-10-04,Casque audio,Électronique,157.73,1.0,Client_1098,occitanie ,Espèces
+173,2025-11-25,Smartphone,électronique,845.37,2.0,Client_1116,,Carte bancaire
+174,2025-07-24,Smartphone,Électronique,"365,63 €",1.0,Client_1078,Île-de-France,Chèque
+175,2025-10-06,Casque audio,Electronique ,,2.0,Client_1089,Bretagne,Chèque
+176,17/09/2025,Chaise de bureau,mobilier,91.72,,Client_1075,nouvelle aquitaine,Virement
+177,05/12/2025,Stylo pack x10,,4.51,1.0,Client_1008,Nouvelle-Aquitaine,Carte bancaire
+178,19/07/2025,Bureau réglable,MOBILIER,337.8,2.0,Client_1059,Occitanie,Chèque
+179,2025-08-10,Bureau réglable,,319.03,4.0,Client_1106,Île-de-France,Chèque
+180,2025-06-24,Cahier A4,Fourniture,3.1,2.0,Client_1162,Nouvelle-Aquitaine,Carte bancaire
+181,13/06/2025,Lampe LED,mobilier,,0.0,Client_1132,bretagne,Virement
+182,18/04/2025,Smartphone,électronique,474.91,,Client_1114,AURA,
+183,08/04/2025,Casque audio,ELECTRONIQUE,"53,54 €",1.0,Client_1101,occitanie ,Carte bancaire
+184,2025-12-08,Classeur,Fourniture,"2,22 €",2.0,Client_1025,IDF,Chèque
+185,14/03/2025,Stylo pack x10,Fourniture,7.42,4.0,Client_1075,Bretagne,Espèces
+186,07/07/2025,Cahier A4,fournitures ,3.76,,Client_1146,Île-de-France,Virement
+187,14/02/2025,Bureau réglable,Mobilier,"225,48 €",-1.0,Client_1012,nouvelle aquitaine,Espèces
+188,25/05/2025,Chaise de bureau,mobilier,"229,10 €",2.0,Client_1071,Nouvelle-Aquitaine,Chèque
+189,2025-10-20,Chaise de bureau,,160.91,1.0,Client_1073,Auvergne-Rhône-Alpes,Espèces
+190,2025-12-08,Classeur,Fourniture,2.06,1.0,Client_1121,Auvergne-Rhône-Alpes,Chèque
+191,12/11/2025,Cahier A4,,2.31,2.0,Client_1029,AURA,Virement
+192,2025-01-24,Stylo pack x10,Fournitures,8.08,2.0,Client_1148,IDF,Carte bancaire
+193,09/08/2025,Casque audio,Electronique ,"195,98 €",1.0,Client_1069,bretagne,Espèces
+194,2025-03-23,Lampe LED,MOBILIER,22.31,2.0,Client_1172,occitanie ,Espèces
+195,2025-04-13,Stylo pack x10,fournitures ,"5,91 €",2.0,Client_1149,occitanie ,Carte bancaire
+196,26/06/2025,Bureau réglable,Mobilier,447.98,,Client_1060,Île-de-France,Chèque
+197,11/04/2025,Stylo pack x10,fournitures ,6.92,2.0,Client_1062,ile de france,Chèque
+198,09/09/2025,Stylo pack x10,Fourniture,4.12,4.0,Client_1010,Bretagne,Chèque
+199,2025-07-12,Casque audio,Électronique,198.48,4.0,Client_1174,bretagne,Espèces
+200,15/05/2025,Classeur,Fourniture,"4,68 €",0.0,Client_1061,occitanie ,Virement
+201,2025-09-03,Smartphone,électronique,844.24,0.0,Client_1131,ile de france,Chèque
+202,2025-02-28,Casque audio,Électronique,"122,81 €",2.0,Client_1166,Auvergne-Rhône-Alpes,Carte bancaire
+203,2025-11-08,Casque audio,Électronique,"131,70 €",-1.0,Client_1080,Île-de-France,Chèque
+204,2025-03-23,Stylo pack x10,Fourniture,3.95,0.0,Client_1137,AURA,Chèque
+205,21/10/2025,Stylo pack x10,Fourniture,10.93,1.0,Client_1003,nouvelle aquitaine,Chèque
+206,2025-12-05,Smartphone,Electronique ,"320,01 €",2.0,Client_1008,Auvergne-Rhône-Alpes,
+207,13/06/2025,Classeur,Fourniture,,-1.0,Client_1090,bretagne,Virement
+208,2025-04-12,Classeur,,4.24,1.0,Client_1085,IDF,Espèces
+209,05/10/2025,Lampe LED,MOBILIER,28.96,4.0,Client_1096,ile de france,Virement
+210,08/01/2025,Classeur,,,2.0,Client_1059,Auvergne-Rhône-Alpes,Carte bancaire
+211,2025-03-09,Cahier A4,Fourniture,"1,46 €",1.0,Client_1191,nouvelle aquitaine,Virement
+212,26/08/2025,Classeur,fournitures ,"2,24 €",3.0,Client_1156,Nouvelle-Aquitaine,Virement
+213,23/03/2025,Casque audio,Électronique,38.43,0.0,Client_1020,bretagne,Carte bancaire
+214,25/02/2025,Stylo pack x10,Fourniture,"6,60 €",1.0,Client_1132,Nouvelle-Aquitaine,Chèque
+215,2025-06-11,Bureau réglable,Mobilier,"160,13 €",2.0,Client_1036,nouvelle aquitaine,Carte bancaire
+216,20/05/2025,Chaise de bureau,MOBILIER,205.7,2.0,Client_1165,Nouvelle-Aquitaine,Carte bancaire
+217,11/07/2025,Lampe LED,MOBILIER,"29,45 €",1.0,Client_1009,occitanie ,Chèque
+218,2025-10-03,Ordinateur portable,Électronique,"1470,58 €",1.0,Client_1145,nouvelle aquitaine,Espèces
+219,2025-04-10,Smartphone,ELECTRONIQUE,872.84,1.0,Client_1079,Nouvelle-Aquitaine,Chèque
+220,2025-04-20,Smartphone,électronique,810.97,3.0,Client_1116,nouvelle aquitaine,Virement
+221,28/11/2025,Smartphone,Électronique,"674,67 €",2.0,Client_1101,bretagne,
+222,2025-07-28,Stylo pack x10,Fourniture,"8,79 €",0.0,Client_1113,ile de france,
+223,26/11/2025,Stylo pack x10,Fourniture,4.55,1.0,Client_1016,occitanie ,Virement
+224,2025-11-02,Smartphone,Electronique ,624.22,0.0,Client_1111,Nouvelle-Aquitaine,Virement
+225,2025-08-23,Stylo pack x10,Fourniture,"5,62 €",2.0,Client_1150,nouvelle aquitaine,Espèces
+226,01/08/2025,Bureau réglable,Mobilier,310.03,1.0,Client_1137,Auvergne-Rhône-Alpes,Espèces
+227,08/05/2025,Lampe LED,mobilier,,3.0,Client_1076,Auvergne-Rhône-Alpes,Virement
+228,12/08/2025,Bureau réglable,Mobilier,164.72,1.0,Client_1137,,Virement
